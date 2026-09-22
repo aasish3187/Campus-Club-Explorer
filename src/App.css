@@ -273,7 +273,7 @@
 .view-btn {
   background-color: #1e3a8a;
   color: #ffffff;
-  border: 1px solid #1e3a8a;
+  border: 1.5px solid #1e3a8a;
   padding: 8px 16px;
   border-radius: 6px;
   font-size: 0.88rem;
@@ -283,10 +283,10 @@
 }
 
 .view-btn:hover {
-  background-color: #d97706;
-  color: #ffffff;
-  border-color: #d97706;
-  box-shadow: 0 4px 10px rgba(217, 119, 6, 0.35);
+  background-color: #eff6ff;
+  color: #1e3a8a;
+  border-color: #93c5fd;
+  box-shadow: 0 4px 10px rgba(30, 58, 138, 0.12);
   transform: translateY(-1px);
 }
 
