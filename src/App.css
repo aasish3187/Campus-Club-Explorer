@@ -17,7 +17,7 @@
 .navbar {
   position: relative;
   background-color: #1e3a8a;
-  background-image: linear-gradient(to right, rgba(15, 23, 42, 0.68) 0%, rgba(15, 23, 42, 0.35) 45%, rgba(15, 23, 42, 0.05) 100%), url('/vignan_campus_right.jpg');
+  background-image: linear-gradient(to right, rgba(15, 23, 42, 0.68) 0%, rgba(15, 23, 42, 0.35) 45%, rgba(15, 23, 42, 0.05) 100%), url('https://cdn.jsdelivr.net/gh/aasish3187/Campus-Club-Explorer@main/public/vignan_campus_right.jpg');
   background-size: cover;
   background-position: right 38%;
   color: #ffffff;
