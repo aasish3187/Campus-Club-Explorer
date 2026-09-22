@@ -283,10 +283,10 @@
 }
 
 .view-btn:hover {
-  background-color: #2563eb;
+  background-color: #d97706;
   color: #ffffff;
-  border-color: #2563eb;
-  box-shadow: 0 4px 10px rgba(37, 99, 235, 0.25);
+  border-color: #d97706;
+  box-shadow: 0 4px 10px rgba(217, 119, 6, 0.35);
   transform: translateY(-1px);
 }
 
