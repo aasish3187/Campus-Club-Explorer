@@ -8,7 +8,7 @@ function Navbar() {
           <span className="campus-icon">🏛️</span>
           <div>
             <h1 className="navbar-title">Campus Club Explorer</h1>
-            <p className="navbar-subtitle">Discover and connect with college student clubs</p>
+            <p className="navbar-subtitle">Vignan University • Discover and connect with student clubs</p>
           </div>
         </div>
       </div>

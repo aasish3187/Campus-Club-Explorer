@@ -17,11 +17,11 @@
 .navbar {
   position: relative;
   background-color: #1e3a8a;
-  background-image: linear-gradient(rgba(15, 23, 42, 0.72), rgba(30, 58, 138, 0.85)), url('https://raw.githubusercontent.com/aasish3187/Campus-Club-Explorer/main/public/campus_header_bg.jpg');
+  background-image: linear-gradient(rgba(15, 23, 42, 0.55), rgba(30, 58, 138, 0.72)), url('https://raw.githubusercontent.com/aasish3187/Campus-Club-Explorer/main/public/campus_header_bg.jpg');
   background-size: cover;
-  background-position: center 30%;
+  background-position: center 36%;
   color: #ffffff;
-  padding: 30px 20px;
+  padding: 34px 20px;
   border-bottom: 3px solid #2563eb;
   box-shadow: 0 4px 14px rgba(15, 23, 42, 0.15);
 }
