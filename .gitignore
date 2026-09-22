@@ -24,3 +24,11 @@ dist-ssr
 *.sw?
 .playwright-mcp/
 ~$*
+*.py
+*.pyc
+__pycache__/
+public/campus_b64.txt
+/Campus_Club_Explorer_*.pptx
+/Campus_Club_Explorer_Report.pdf
+/generate_*.py
+/slide_img_*.png
