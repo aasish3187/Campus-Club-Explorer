@@ -179,7 +179,8 @@
   border-top: 1px solid #f1f5f9;
 }
 
-.club-grid {
+.club-grid,
+.clubs-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
   gap: 24px;
