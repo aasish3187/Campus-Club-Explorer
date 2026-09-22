@@ -271,9 +271,9 @@
 }
 
 .view-btn {
-  background-color: #eff6ff;
-  color: #1e3a8a;
-  border: 1px solid #bfdbfe;
+  background-color: #2563eb;
+  color: #ffffff;
+  border: 1px solid #2563eb;
   padding: 8px 16px;
   border-radius: 6px;
   font-size: 0.88rem;
@@ -283,9 +283,11 @@
 }
 
 .view-btn:hover {
-  background-color: #1e3a8a;
+  background-color: #0f172a;
   color: #ffffff;
-  border-color: #1e3a8a;
+  border-color: #0f172a;
+  box-shadow: 0 4px 10px rgba(15, 23, 42, 0.25);
+  transform: translateY(-1px);
 }
 
 .no-results {
